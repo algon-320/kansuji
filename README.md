@@ -6,6 +6,8 @@ clangや最新のGCCでしか動きません(おそらく)
 
 ## Example
 
+[Wandboxで試す](https://wandbox.org/permlink/fOZeKbfdwieFdOkp)
+
 ```c
 #include <stdio.h>
 #include "kansuji.h"
